@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Nomad-adi
-- 👀 I’m interested in Android Development and python based projects
-- 🌱 I’m currently learning Android and python 
-- 📫 How to reach me https://www.linkedin.com/in/aditya-urkude-524028196/
+- 👋 Hi, I’m @Aditya Urkude
+- 👀 I’m interested in Django and python based projects
+- 🌱 I’m currently learning Django and Python 
+- 📫 How to reach me https://www.linkedin.com/in/aditya-urkude02/
 
 <!---
 Nomad-adi/Nomad-adi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
